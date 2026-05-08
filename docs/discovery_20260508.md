@@ -1,10 +1,13 @@
-DATE: 2026-05-08  |  THEME: AI Infrastructure Build-Out + Defensive Quality Anchors in an Inflationary Energy Environment
+DATE: 2026-05-08  |  THEME: Broad BULLISH Tape with Value Rotation — AI Quality Meets Defensive Income in a Record-Setting Market
 CANDIDATES SCREENED: 18  |  QUALIFYING PICKS: 10
 
-MACRO CONTEXT (from 2026-05-07 brief, no fresh brief today):
-Bias: NEUTRAL. Oil at $110 WTI (Hormuz blockade) → inflation headwind for rate-sensitive growth, tailwind for energy.
-Fed holds 3.5–3.75%. Tech sector +15% (1-month) driven by AI demand. Semiconductor weakness flagged but Nvidia specifically noted as strong.
-Applied across all picks: slight Stability penalty for highly-leveraged names; Valuation credit for energy/defensive; AI capex wave confirmed by customer raises (Meta $145B, Microsoft $190B).
+MACRO CONTEXT (market_brief_20260508.md — BULLISH, Confidence M):
+Bias: BULLISH. Iran peace deal hopes + falling oil → risk-on; S&P 500 & Nasdaq set records May 5–7.
+Sector rotation into Value/Cyclicals: Energy +21% YTD, Materials +17%, Industrials +12% vs Tech -3% (short-term sector headwind for mega-cap tech picks).
+Fed holds 3.5–3.75% but 4 dissents (highest since Oct 1992) → policy uncertainty ahead. CPI due May 12 is the next key catalyst.
+Strong labor data underpins consumer spending — positive for payments (V, MA) and insurance (ALL).
+Applied across all picks: BULLISH bias lifts Stability scores for quality names; value rotation supports ALL (P/E 6.9x) and DOX (P/E 9.7x fwd);
+Tech Stability scores carry a 1-point sector-rotation discount; CVX thesis nuanced — Energy sector up YTD but Iran peace deal implies oil price risk near-term.
 
 ---
 
